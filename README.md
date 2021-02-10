@@ -3,5 +3,3 @@
 This project uses the package `pytube`
 
 To install it run `pip install pytube`
-
-![screenshot of the program](https://imgur.com/RTb4OEy)
